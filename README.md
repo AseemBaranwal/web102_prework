@@ -1,4 +1,4 @@
-# WEB102 Prework - _Name of App Here_
+# WEB102 Prework - _FundMyGames_
 
 Submitted by: **Aseem Baranwal**
 

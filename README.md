@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://imgur.com/a/0g3UZaF)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/0g3UZaF"  ><a href="//imgur.com/a/0g3UZaF">SeaMonster Crowdfunding Website Walthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
